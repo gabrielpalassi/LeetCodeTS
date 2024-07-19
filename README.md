@@ -1,4 +1,4 @@
-# LeetCodeTS 🚀
+# 🚀 LeetCodeTS
 
 Solutions to the top 150 LeetCode interview questions implemented in TypeScript.
 
@@ -21,16 +21,16 @@ To use the solutions in this repository, you need to have TypeScript, ts-node, a
 
 2. Install TypeScript and ts-node: Open a terminal or command prompt and run the following commands to install TypeScript and ts-node globally:
 
-    ```shell
-    npm install -g typescript
-    npm install -g ts-node
-    ```
+   ```shell
+   npm install -g typescript
+   npm install -g ts-node
+   ```
 
 3. Clone the repository: Use the following command to clone this repository to your local machine:
 
-    ```shell
-    git clone https://github.com/your-username/LeetCodeTS.git
-    ```
+   ```shell
+   git clone https://github.com/your-username/LeetCodeTS.git
+   ```
 
 ## Usage
 
@@ -40,15 +40,15 @@ Each solution is implemented in a separate TypeScript file. To run a specific so
 
 2. Navigate to the root directory of the cloned repository and then to appropriate folder.
 
-4. You can run a specific solution by executing the following command:
+3. You can run a specific solution by executing the following command:
 
-    ```shell
-    ts-node name-of-problem.ts
-    ```
+   ```shell
+   ts-node name-of-problem.ts
+   ```
 
-    Replace `name-of-problem.ts` with the actual name of the TypeScript file containing the solution you want to run.
+   Replace `name-of-problem.ts` with the actual name of the TypeScript file containing the solution you want to run.
 
-5. Make sure to add your test cases within the solution file before running it, as the files only contain function implementations.
+4. Make sure to add your test cases within the solution file before running it, as the files only contain function implementations.
 
 ## Contributing
 
