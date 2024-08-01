@@ -15,21 +15,18 @@ LeetCode is a popular platform for practicing coding skills through solving algo
 
 ## Installation
 
-To use the solutions in this repository, you need to have TypeScript, ts-node, and Node.js installed on your machine. You can install them by following these steps:
+To use the solutions in this repository, you need to have Bun installed on your machine. You can install it by following these steps:
 
-1. Install Node.js: Visit the official Node.js website (https://nodejs.org) and download the latest stable version for your operating system. Follow the installation instructions provided.
+1. Install Bun: Open a terminal or command prompt and run the following command to install Bun:
 
-2. Install TypeScript and ts-node: Open a terminal or command prompt and run the following commands to install TypeScript and ts-node globally:
-
-   ```shell
-   npm install -g typescript
-   npm install -g ts-node
+   ```bash
+   curl -fsSL https://bun.sh/install | bash
    ```
 
-3. Clone the repository: Use the following command to clone this repository to your local machine:
+2. Clone the repository: Use the following command to clone this repository to your local machine:
 
-   ```shell
-   git clone https://github.com/your-username/LeetCodeTS.git
+   ```bash
+   git clone https://github.com/gabrielpalassi/LeetCodeTS.git
    ```
 
 ## Usage
@@ -38,20 +35,20 @@ Each solution is implemented in a separate TypeScript file. To run a specific so
 
 1. Open a terminal or command prompt.
 
-2. Navigate to the root directory of the cloned repository and then to appropriate folder.
+2. Navigate to the root directory of the cloned repository and then to the appropriate folder.
 
 3. You can run a specific solution by executing the following command:
 
-   ```shell
-   ts-node name-of-problem.ts
+   ```bash
+   bun run name-of-problem.ts
    ```
 
    Replace `name-of-problem.ts` with the actual name of the TypeScript file containing the solution you want to run.
 
-4. Make sure to add your test cases within the solution file before running it, as the files only contain function implementations.
+> Note: Make sure to add your test cases within the solution file before running it, as the files only contain function implementations.
 
 ## Contributing
 
-We welcome contributions to this repository. If you have ideas for new programs, bug fixes, or improvements, please open an issue or submit a pull request.
+We welcome contributions to this repository. If you have ideas for new solutions, bug fixes, or improvements, please open an issue or submit a pull request.
 
 If you have any questions, suggestions, or feedback, feel free to reach out to me at my [e-mail](mailto:gabrielpalassi@hotmail.com).
