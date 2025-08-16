@@ -50,5 +50,3 @@ Each solution is implemented in a separate TypeScript file. To run a specific so
 ## Contributing
 
 We welcome contributions to this repository. If you have ideas for new solutions, bug fixes, or improvements, please open an issue or submit a pull request.
-
-If you have any questions, suggestions, or feedback, feel free to reach out to me at my [e-mail](mailto:gabrielpalassi@hotmail.com).
