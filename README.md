@@ -45,7 +45,7 @@ Each solution is implemented in a separate TypeScript file. To run a specific so
 
    Replace `name-of-problem.ts` with the actual name of the TypeScript file containing the solution you want to run.
 
-> Note: Make sure to add your test cases within the solution file before running it, as the files only contain function implementations.
+> Note: Make sure to add your test cases and any supporting structures the problem needs within the solution file before running it, such as a `Node` class or other helper definitions, as the files only contain function implementations.
 
 ## Contributing
 
